@@ -1,4 +1,4 @@
-##Lightweight Photo Editor
+Lightweight Photo Editor
 ---
 Built in Java, this is a simple, lightweight photo editor with a few key features
 
